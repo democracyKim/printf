@@ -1,0 +1,5 @@
+*.o
+*.d
+*.sh
+.vscode
+.DS_Store
